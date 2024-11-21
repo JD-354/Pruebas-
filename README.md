@@ -1,9 +1,4 @@
-      <html lang="en">
-      <meta charset="UTF-8>
-      <title> Reloj Maestro </title>
-       </head>
-      <body>
-           body {
+      body {
         font-family: 'Arial', sans-serif;
         overflow-x: hidden;
         background: linear-gradient(45deg,rgba(255, 255, 255, 0.1) , black);;
